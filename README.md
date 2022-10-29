@@ -9,9 +9,8 @@ I created this app to solve a real problem. I can never remember what I need to 
 However, I am extremely unlikely to leave my phone behind, so it is like a list I can use everywhere. Plus, think of the environmental impact of this app.
 I've probably saved like 3 trees from being made into paper for me to make lists out of. Those 3 trees could make all the difference.
 
-Check out my demo of the software below:
-[//]: <> Need to upload and link video here  
-[Software Demo Video](http://youtube.link.goes.here)
+Check out my demo of the software below:  
+[Software Demo Video](https://youtu.be/7bNUuseTk1E)
 
 ## Development Environment
 
